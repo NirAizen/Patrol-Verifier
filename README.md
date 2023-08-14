@@ -7,7 +7,11 @@ This PyQt-based application takes scanned Excel files and compares them against 
 Methods Used:
 
 PyQt5 GUI: Developed using the PyQt5 framework, the application offers an intuitive and responsive user interface for easy interaction.
+
 Excel Data Comparison: The app reads and processes Excel files to extract patrol point data, then performs comparisons to identify any discrepancies.
+
 Dynamic Theme Switching: Users can switch between light and dark themes for optimal visibility.
+
 Missing Point Detection: The application identifies and displays missing patrol points, highlighting potential security concerns.
+
 Interactive Output: Detailed comparison results can be copied to the clipboard, facilitating further analysis or reporting.
